@@ -6,13 +6,13 @@ I'm a Computer Science student from Universitas DIPA Makassar. I enjoy exploring
 - 🚀 Always open to learning new tech and solving complex technical problems
 - 📫 How to reach me: www.linkedin.com/in/dzulfikar-tadah-b52619426
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me (Social Media)
 <p align="left">
-  <a href="https://www.linkedin.com/in/dzulfikar-tadah-b52619426" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://www.instagram.com/dzulfkar._?igsh=YTdpdHZsdnppNGlp" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/dzulfikar-tadah-b52619426" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -25,5 +25,6 @@ I'm a Computer Science student from Universitas DIPA Makassar. I enjoy exploring
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
