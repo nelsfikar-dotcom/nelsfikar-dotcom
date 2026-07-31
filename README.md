@@ -6,18 +6,17 @@ I'm a Computer Science student from Universitas DIPA Makassar. I enjoy exploring
 - 🚀 Always open to learning new tech and solving complex technical problems
 - 📫 How to reach me: www.linkedin.com/in/dzulfikar-tadah-b52619426
 
-
-### 🌐 Connect with me:
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/dzulfikar-tadah-b52619426" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/dzulfkar._?igsh=YTdpdHZsdnppNGlp" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack I Use
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
